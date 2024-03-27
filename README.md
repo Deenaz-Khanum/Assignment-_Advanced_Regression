@@ -23,5 +23,5 @@ Numpy Version - 1.21.5
 sklearn version - 1.0.2
 
 ## Contact
-Created by [@biswasamanta] - feel free to contact me!
+Created by [@Deenaz-Khanum] - feel free to contact me!
 
